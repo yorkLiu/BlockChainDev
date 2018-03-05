@@ -8,6 +8,7 @@ BlockChain Develop 区块链, 以太坊
   * [区块链 & 以太坊 Creole 系列文章 译本](https://zhuanlan.zhihu.com/p/20863202)
   * [以太坊 初识 写得非常易懂](https://zhuanlan.zhihu.com/p/28930323)
 * [如何用 Python 从 0 开始创建一个区块链](http://www.iteye.com/news/32907)
+* [深入浅出区块链 天善智能](https://ask.hellobi.com/topic/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%8C%BA%E5%9D%97%E9%93%BE)
 
 
 
