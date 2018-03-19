@@ -37,3 +37,11 @@ BlockChain Develop 区块链, 以太坊
   * `智能合约`算法:
     * 1.**POW算法** (proof-of-work) 工作量证明
     * 2.**POS算法** (proof-of-stake) 权益证明
+
+## 学习资源
+* [深入浅出区块链 - Tiny 熊](https://learnblockchain.cn/)  
+* [汪晓明对区块链、以太坊的思考](http://wangxiaoming.com/)  
+* [黎跃春区块链博客](http://liyuechun.org/archive/)
+* [区块链技术博客 - 以太开发文档](http://me.tryblockchain.org/)
+* [XDITE](http://blog.xdite.net/)
+* [更多资源可移驾这里](https://github.com/BlockchainOne/awesome-blockchain-media)
